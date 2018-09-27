@@ -95,18 +95,7 @@ hr {
     height: 200px;
 }
 
-/* CONTACT FORM */
 
-.header {
-    color: #36A0FF;
-    font-size: 27px;
-    padding: 10px;
-}
-
-.bigicon {
-    font-size: 35px;
-    color: #36A0FF;
-}
 
 /* HOVERS */
 
@@ -149,14 +138,25 @@ a:visited {
         width: 50%;
         height: 50%;
     }
+    #copyrights {
+        font-size: 13px;
 
-}
-
-@media (min-width: 992px){
-    .navbar-nav{
-        float:none;
-        margin: 0 auto;
-        display: table;
-        table-layout: fixed;
     }
-}
+    .h1,
+    h1 {
+        font-size: 24px;
+
+    }
+    .services {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+    @media (min-width: 992px) {
+        .navbar-nav {
+            float: none;
+            margin: 0 auto;
+            display: table;
+            table-layout: fixed;
+        }
+    }
