@@ -9,25 +9,57 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="styles.css" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+
     <title>Smith's Barbershop</title>
 </head>
 
 <body>
-    <a href="index.html"><div class="img-container" alt="Cover image, featuring a straight razor, a brash and a wooden bowl of shaving soap.">
+    <a href="index.html">
+        <div class="img-container" alt="Cover image, featuring a straight razor, a brash and a wooden bowl of shaving soap.">
 
-    </div></a>
-    
-    
-    <hr class="divider" />
-    <div class="container-fluid">
-        <div class="row navbar">
-            <div class="col-sm-2 col-sm-offset-1"><a class="btn" href="index.html">Home</a></div>
-            <div class="col-sm-2"><a class="btn" href="prices.html">Our Prices</a></div>
-            <div class="col-sm-2"><a class="btn" href="location.html">Location</a></div>
-            <div class="col-sm-2"><a class="btn" href="about.html">About Us</a></div>
-            <div class="col-sm-2"><a class="btn" href="contact.html">Contact Us</a></div>
         </div>
-    </div>
+    </a>
+
+    <hr class="divider" />
+
+
+    <nav>
+        <div class="container-fluid">
+            <div class="row navbar nav">
+                <div class="col-sm-2 col-sm-offset-1"><a class="btn" href="index.html">Home</a></div>
+                <div class="col-sm-2"><a class="btn" href="prices.html">Our Prices</a></div>
+                <div class="col-sm-2"><a class="btn" href="location.html">Location</a></div>
+                <div class="col-sm-2"><a class="btn" href="about.html">About Us</a></div>
+                <div class="col-sm-2"><a class="btn" href="contact.html">Contact Us</a></div>
+            </div>
+        </div>
+    </nav>
+
+    <br />
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+                <a class="navbar-brand" href="index.html">John Smith's Barbershop</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Our Prices</a></li>
+                    <li><a href="#">Location</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+               
+            </div>
+        </div>
+    </nav>
+
 
     <hr class="divider" />
 
@@ -43,7 +75,9 @@
         </div>
 
         <div class="col-sm-12">
-            <a href="prices.html" class="firstpage"><h1>1. Haircut with scissors and clippers</h1></a>
+            <a href="prices.html" class="firstpage">
+                <h1>1. Haircut with scissors and clippers</h1>
+            </a>
         </div>
         <img class="img-responsive center-block" src="../images/pic1.jpg" id="imgone" alt="Responsive Image" style="border-radius: 113px;" />
         <br />
@@ -51,13 +85,17 @@
 
 
         <div class="col-md-12">
-           <a href="prices.html" class="firstpage"> <h1>2. Wet beard shave with a straight razor.</h1></a>
+            <a href="prices.html" class="firstpage">
+                <h1>2. Wet beard shave with a straight razor.</h1>
+            </a>
         </div>
         <img class="img-responsive center-block" src="../images/pic2.JPG" id="imgtwo" alt="Responsive Image" style="border-radius: 113px;" />
         <br />
 
         <div class="col-md-12">
-            <a href="prices.html" class="firstpage"><h1>3. Head shave with a relaxing head massage.</h1></a>
+            <a href="prices.html" class="firstpage">
+                <h1>3. Head shave with a relaxing head massage.</h1>
+            </a>
         </div>
         <img class="img-responsive center-block" src="../images/pic3.jpg" id="imgthree" alt="Responsive Image" style="border-radius: 113px;" />
 
@@ -67,19 +105,6 @@
     <!-- FOOTER -->
 
     <footer class="row">
-
-        <div class="col-xs-4">© Copyright John Smith's Barbershop</div>
-
-        <div class="col-xs-4">
-            <p style="display: inline;">Subscribe to our newsletter!</p>
-            <form class="form-inline">
-                <div class="form-group">
-                    <input type="email" class="form-control" id="exampleInputEmail2input" placeholder="jane.doe@example.com">
-                </div> <br />
-                <button type="submit" class="btn btn-default" id="subbutton">Subscribe!</button>
-            </form>
-        </div>
-
         <div class="col-xs-4">
             <a href="#" class="fa fa-facebook-square"></a>
             <a href="#" class="fa fa-twitter-square"></a>
@@ -87,10 +112,11 @@
             <a href="#" class="fa fa-instagram"></a>
         </div>
 
-
-
+        <div class="col-xs-4 col-xs-offset-4">© Copyright John Smith's Barbershop</div>
     </footer>
-
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 
 </html>
