@@ -68,7 +68,7 @@ description of the service below.
 
 
 <h2>Credits</h2>
-<hr />
+
 <h3>Content</h3>
 - No actual content (in terms of text) has been coppied to my website.
 
