@@ -44,12 +44,15 @@ the issue. I am coding on a 15.6 inch laptop screen and 15.6 inch screens are st
 further below in this descriptive document.
 
 <h3>3. Heading titles on the home/index page</h3>
+
 - The heading images on the home page, which feature the 3 main services that the barbershop provides, are all clickable links which lead
 directly to the prices page, where these same services are again listed in the same order, but with a prices next to the headline and a
 description of the service below.
 
 <h4><i>Features left to implement</i></h4>
+
 - A back to the top button may be included, although it doesn't seem entirely necessary.
 - More interesting and colourful animations for the reponsive burger button could be implemented when my knowledge is expanded with JavaScript. 
 - A modal for subscriptions could be added.
+
 
