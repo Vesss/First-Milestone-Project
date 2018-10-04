@@ -64,10 +64,13 @@ description of the service below.
 - Chrome Developer Tools
 
 <h2>Deployment</h2>
+The website is deployed via GitHub pages.
 
-
+Locally it can be run by downloading the files from GitHub and loading them on a coding editor.
 
 <h2>Credits</h2>
+- W3Schools
+- Stack Overflow
 
 <h3>Content</h3>
 - No actual content (in terms of text) has been coppied to my website.
