@@ -15,6 +15,8 @@ particular things, such as buttons.
 
 <h2>FEATURES</h2>
 
+<h4><i>Existing features</i></h4>
+
 <h3>1. Header Image</h3>
 
 - The website has a retro-shaving image featuring old-school shaving equipment. The header image itself is a link that leads back to the home/index page.
@@ -36,7 +38,7 @@ they are separate elements. The horizontal line elements' purpose is purely cosm
 into a burger button, which can be expanded upon clicking the burger button, in all devices below 1199px, however I manually made it to collapse
 turn into a burger button bellow 1200px, ensuring that I will maintain the buttons visible only on full screen.
 The buttons were beginning the shrink unpleasantly on 1199px and were turning into a burger button on 1198px. That one extra pixel solved
-the issue.
+the issue. I am coding on a 15.6 inch laptop screen and 15.6 inch screens are standard for many devices, hence why these pixel sizes are used.
 
 - Furthermore, the design for a burger button on all devices below large were inspired by another website, which is covered in greater detail
 further below in this descriptive document.
@@ -45,4 +47,9 @@ further below in this descriptive document.
 - The heading images on the home page, which feature the 3 main services that the barbershop provides, are all clickable links which lead
 directly to the prices page, where these same services are again listed in the same order, but with a prices next to the headline and a
 description of the service below.
+
+<h2>Features left to implement</h2>
+- A back to the top button may be included, although it doesn't seem entirely necessary.
+- More interesting and colourful animations for the reponsive burger button could be implemented when my knowledge is expanded with JavaScript. 
+- A modal for subscriptions could be added.
 
