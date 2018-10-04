@@ -1,4 +1,4 @@
-John Smith's Barbershop
+<h2>John Smith's Barbershop</h2>
 
 This project represents a static website for an imaginariy (unexisting) barbershop.
 The name "John Smith's Barbershop" was chosen, because John Smith is the most common name in the Anglosphere.
@@ -27,7 +27,7 @@ It became a challenge to turn these buttons into a responsive, collapsable burge
 Luckily, not only did it later help in solving the issue of creating the collapsable burger button for smaller devices, but it also provided my website with nicer-looking
 buttons.
 
-- The buttons navigation has two horizontal line elements ( <hr /> ) surrounding it on top and bottom. They are outside of the navigation element - 
+- The buttons navigation has two horizontal line elements surrounding it on top and bottom. They are outside of the navigation element - 
 they are separate elements. The horizontal line elements' purpose is purely cosmetic - the enhance and improve the design.
 
 - The navigation buttons allow the user to go to any of the pages on the website.
