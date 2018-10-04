@@ -13,14 +13,14 @@ The UX is simple. I followed Code Institute's advice of not re-inventing the whe
 The main colours of the website are black and orange - black being the main colour, but also sitting more on the background. Orange is used for more
 particular things, such as buttons.
 
-FEATURES
+<h2>FEATURES</h2>
 
-<h2>1.</h2> Header Image
+<h3>1. Header Image</h3>
 
 - The website has a retro-shaving image featuring old-school shaving equipment. The header image itself is a link that leads back to the home/index page.
 There is a darkening effect upon hovering the image. The image fades out a little - darkening by 25%. This was achieved through a transition.
 
-2. Navigation
+<h3>2. Navigation</h3>
 
 - The navigation menu is responsive on all devices. Initially the buttons for it were created as columns in a single row, each one taking 2 columns on all devices.
 It became a challenge to turn these buttons into a responsive, collapsable burger button smaller devices, which prompted me to use Bootstrap's built-in navigation.
@@ -41,7 +41,8 @@ the issue.
 - Furthermore, the design for a burger button on all devices below large were inspired by another website, which is covered in greater detail
 further below in this descriptive document.
 
-3. Heading titles on the home/index page
+<h3>. Heading titles on the home/index page</h3>
 - The heading images on the home page, which feature the 3 main services that the barbershop provides, are all clickable links which lead
 directly to the prices page, where these same services are again listed in the same order, but with a prices next to the headline and a
 description of the service below.
+
