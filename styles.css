@@ -186,7 +186,10 @@ a:visited {
     }
     
     /* Media query that changes the breakpoint for the collapsable menu
-    This has been directly copied from a discussion on StackOverflow */
+    This has been directly copied from a discussion on StackOverflow.
+    I take NO credit for it's creation. The only alterations that I have
+    personaly added is an extra pixel on the breakpoint - making it from
+    1199px to 1200px, as well as making it float to the left. */
     
 @media (max-width: 1200px) {
     .navbar-header {
@@ -194,6 +197,7 @@ a:visited {
     }
     .navbar-toggle {
         display: block;
+        float: left;
     }
     .navbar-collapse {
         border-top: 1px solid transparent;
@@ -217,7 +221,6 @@ a:visited {
         float: none;
         margin: 15px 0;
     }
-    /* since 3.1.0 */
     .navbar-collapse.collapse.in { 
         display: block!important;
     }
