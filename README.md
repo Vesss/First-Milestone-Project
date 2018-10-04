@@ -77,6 +77,7 @@ description of the service below.
 - The black and white barber photo was obtained by Pexels.com - it is a free stock image.
 - The straight razor bear shave image is a free stock image: https://media.defense.gov/2014/Jun/11/2000801022/-1/-1/0/140608-M-SV584-074.JPG
 - The image of the head shave with a relaxing head massage was taken as a screenshot from a YouTube video - the channel is: ASMR Barber.
+- The About Me page image, as well as the 3 small images on Prices page have been downloaded from Google Images with the tools setting turned on to Labeled for Reuse.
 
 <h3>Acknowledgments</h3>
 The inspiration for my website came from a British barbershop called 'The Barberhouse Birmingham' They can be found at: https://www.thebarberhousebirmingham.co.uk/.
