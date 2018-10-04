@@ -85,3 +85,8 @@ Locally it can be run by downloading the files from GitHub and loading them on a
 The inspiration for my website came from a British barbershop called 'The Barberhouse Birmingham' They can be found at: https://www.thebarberhousebirmingham.co.uk/.
 In particular their previous menu was a design inspiration for my website - the website has now been updated and is no longer featuring it, but it used to collapse to a burger button on medium devices and below.
 
+<h1>IMPORTANT NOTE!</h1>
+It was my own negligence that made me overlook the requirement for regular committing to GitHub, which is why I first started submitting at a point where my project was about 80% complete.
+The person reviewing and grading this project should take note of the fact that the first commit has roughly 700-something changes in a single (initial) commit.
+I was advised to include a note in this file, explaining the situation, so this is it.
+
