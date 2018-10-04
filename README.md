@@ -61,7 +61,6 @@ description of the service below.
 - HTML
 - CSS
 - Cloud9
-- Chrome Developer Tools
 
 <h2>Deployment</h2>
 The website is deployed via GitHub pages.
