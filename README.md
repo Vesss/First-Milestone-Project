@@ -68,18 +68,18 @@ The website is deployed via GitHub pages.
 Locally it can be run by downloading the files from GitHub and loading them on a coding editor.
 
 <h2>Credits</h2>
- - W3Schools
- - Stack Overflow
+* W3Schools
+* Stack Overflow
 
 <h3>Content</h3>
 - No actual content (in terms of text) has been coppied to my website.
 
 <h3>Media</h3>
-- The header image has been obtained from here: https://cdn.shopify.com/s/files/1/0705/2585/articles/Traditional_Shave_Blog_1112x.jpg?v=1507409431
-- The black and white barber photo was obtained by Pexels.com - it is a free stock image.
-- The straight razor bear shave image is a free stock image: https://media.defense.gov/2014/Jun/11/2000801022/-1/-1/0/140608-M-SV584-074.JPG
-- The image of the head shave with a relaxing head massage was taken as a screenshot from a YouTube video - the channel is: ASMR Barber.
-- The About Me page image, as well as the 3 small images on Prices page have been downloaded from Google Images with the tools setting turned on to Labeled for Reuse.
+* The header image has been obtained from here: https://cdn.shopify.com/s/files/1/0705/2585/articles/Traditional_Shave_Blog_1112x.jpg?v=1507409431
+* The black and white barber photo was obtained by Pexels.com - it is a free stock image.
+* The straight razor bear shave image is a free stock image: https://media.defense.gov/2014/Jun/11/2000801022/-1/-1/0/140608-M-SV584-074.JPG
+* The image of the head shave with a relaxing head massage was taken as a screenshot from a YouTube video - the channel is: ASMR Barber.
+* The About Me page image, as well as the 3 small images on Prices page have been downloaded from Google Images with the tools setting turned on to Labeled for Reuse.
 
 <h3>Acknowledgments</h3>
 The inspiration for my website came from a British barbershop called 'The Barberhouse Birmingham' They can be found at: https://www.thebarberhousebirmingham.co.uk/.
