@@ -1,4 +1,4 @@
-<h2>John Smith's Barbershop</h2>
+<h1>John Smith's Barbershop</h1>
 
 This project represents a static website for an imaginariy (unexisting) barbershop.
 The name "John Smith's Barbershop" was chosen, because John Smith is the most common name in the Anglosphere.
