@@ -55,4 +55,11 @@ description of the service below.
 - More interesting and colourful animations for the reponsive burger button could be implemented when my knowledge is expanded with JavaScript. 
 - A modal for subscriptions could be added.
 
+<h2>Technologies used</h2>
+
+- Bootstrap 3
+- HTML
+- CSS
+- Cloud9
+- Chrome Developer Tools
 
