@@ -7,7 +7,7 @@ Because John Smith's Barbershop is a men's grooming service, the website uses a 
 
 There is a great emphasis on imagery on the first page - the goal of that is nothing more than a marketing strategy - few text and big, eye-catching images.
 
-UX
+<h2>UX</h2>
 
 The UX is simple. I followed Code Institute's advice of not re-inventing the wheel, so I used Bootstrap (3) to create my project. 
 The main colours of the website are black and orange - black being the main colour, but also sitting more on the background. Orange is used for more
