@@ -15,7 +15,7 @@ particular things, such as buttons.
 
 FEATURES
 
-1. Header Image
+<h2>1.</h2> Header Image
 
 - The website has a retro-shaving image featuring old-school shaving equipment. The header image itself is a link that leads back to the home/index page.
 There is a darkening effect upon hovering the image. The image fades out a little - darkening by 25%. This was achieved through a transition.
