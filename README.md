@@ -1,5 +1,7 @@
 <h1>John Smith's Barbershop</h1>
 
+LINK: https://vesss.github.io/First-Milestone-Project/
+
 This project represents a static website for an imaginariy (unexisting) barbershop.
 The name "John Smith's Barbershop" was chosen, because John Smith is the most common name in the Anglosphere.
 
